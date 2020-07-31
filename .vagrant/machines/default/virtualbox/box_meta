@@ -1,1 +1,1 @@
-{"name":"hyperledger/fabric-baseimage","version":"0.3.0","provider":"virtualbox","directory":"boxes/hyperledger-VAGRANTSLASH-fabric-baseimage/0.3.0/virtualbox"}
+{"name":"bento/ubuntu-16.04","version":"202007.17.0","provider":"virtualbox","directory":"boxes/bento-VAGRANTSLASH-ubuntu-16.04/202007.17.0/virtualbox"}
